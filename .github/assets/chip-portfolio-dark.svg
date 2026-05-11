@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="open portfolio">
+  <style>.m{font-family:'SF Mono',SFMono-Regular,ui-monospace,Consolas,'Liberation Mono',Menlo,monospace;}</style>
+  <rect x="0.5" y="0.5" width="1199" height="63" rx="10" fill="#161b22" stroke="#30363d"/>
+  <text class="m" x="36" y="38" font-size="16" fill="#7d8590">~ $</text>
+  <text class="m" x="82" y="38" font-size="16" font-weight="600" fill="#d2a8ff">open portfolio</text>
+  <text class="m" x="248" y="38" font-size="14" fill="#6e7681"># 포트폴리오 사이트</text>
+</svg>
