@@ -1,28 +1,7 @@
-# 손유관 · Son Yu Gwan
+# 손유관 · Son Yugwan
 
 [![Gmail](https://img.shields.io/badge/sonyk9919@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sonyk9919@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sonyk9919/posts)
-
-<br/>
-
-## Experience
-
-### 이파피루스 · 프론트엔드 선임 `2024.03 – 2025.08`
-
-- 오프스크린 캔버스 캐싱으로 스크롤 지연 **벡터 문서 대비 95% 개선** · [StreamDocs-Vu](https://demo.epapyrus.com/ko/streamdocs-vu)
-- TypeScript Decorator 기반 AOP 통계 모듈, PDF 편집 클라이언트화 · [StreamDocs](https://demo.epapyrus.com/ko/streamdocs)
-- PDF 오픈소스 분석으로 치명적 버그 발굴·개선 · [MuPDF Viewer](https://webviewer.mupdf.com/demo)
-
-`TypeScript` `Angular 18+` `RxJS` `Cypress` `Docker` `Jenkins`
-
----
-
-### 리비바이오 · 프론트엔드 팀원 `2023.02 – 2024.03`
-
-- **Lighthouse 성능 60 → 90**, Next.js App Router(RSC) 마이그레이션 · [알렌의 서재](https://www.allenslibrary.com)
-- DAU 600+ 커뮤니티, PWA + Web Push, 내부 CMS, 구매 비즈니스 로직 개발
-
-`TypeScript` `Next.js 13` `Recoil` `SWR` `GraphQL` `Styled-Components` `Vercel`
 
 <br/>
 
@@ -36,6 +15,17 @@
 - Vitest 기반 파서·유틸리티 단위 테스트 작성
 
 `Next.js 16` `TypeScript` `Tailwind CSS v4` `TanStack Query` `Zustand` `Zod` `Vitest`
+
+---
+
+### 3D Tetris · [GitHub](https://github.com/sonyk9919/3D-Tetris) · [Demo](https://sonyk9919.github.io/3D-Tetris)
+
+Three.js + React로 구현한 아이소메트릭 시점의 3D 테트리스.
+
+- 3D 공간의 충돌 감지를 2D 정수 그리드로 분리해 렌더링 좌표계와 로직 좌표계를 독립적으로 처리
+- 템플릿 메서드 패턴 기반 블록 설계, 셰이더 기반 배경·파티클 이펙트·GSAP 애니메이션
+
+`React 19` `Three.js` `@react-three/fiber` `GSAP` `TypeScript`
 
 ---
 
@@ -91,17 +81,18 @@
 
 ## Education & Certifications
 
+<p align="left">
+  <a href="https://solved.ac/thsdbrhks99">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbrhks99"/>
+  </a>
+</p>
+
+
 **경기대학교** 컴퓨터공학과 · `2020.03 – 2026.08 (졸업 예정)`
 
-| | |
+| 항목 | 비고 |
 |---|---|
 | 정보처리기사 | 2025.12 |
 | SQLD | 2025.09 |
 
 <br/>
-
-<p align="center">
-  <a href="https://solved.ac/thsdbrhks99">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbrhks99"/>
-  </a>
-</p>
